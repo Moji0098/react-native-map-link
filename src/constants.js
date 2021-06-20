@@ -57,6 +57,9 @@ export function generateTitles(titles) {
     gett: 'Gett',
     navermap: 'Naver Map',
     dgis: '2GIS',
+    snapp: 'snapp',
+    neshan: 'neshan',
+    balad: 'balad',
     ...(titles || {}),
   };
 }
